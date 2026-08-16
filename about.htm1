@@ -16,6 +16,8 @@
         <a href="https://store.steampowered.com/" target="_blank">Favorite website 3</a> <br>
       </p>
       <!--Internal link back to home page-->
-      <a href="index.htm1" Back to first page <a/>
+<p>     
+<a href="index.htm1" Back to first page <a/>
+</p>
 </body>
 </html>
