@@ -11,6 +11,11 @@
      <p>One of my favorite pastimes is playing video games. I've always enjoyed playing video games and using them to unwind from everyday life. Some of my favorite games include The Sims 4, Fortnite, GTA Five, and The Last of Us. Video games also give me a new way to connect with other people. I have met many amazing people online and formed friendships through gaming together. Gaming will always be one of my favorite hobbies because I look forward to new gaming releases and discovering new games.</p>
       <!--External websites-->
       <p>
-        <a href="https://www.youtube.com/"
+        <a href="https://www.youtube.com/" target="_blank">Favorite website 1</a> <br>
+        <a href="https://www.amazon.com/" target="blank">Favorite website 2</a> <br>
+        <a href="https://store.steampowered.com/" target="_blank">Favorite website 3</a> <br>
+      </p>
+      <!--Internal link back to home page-->
+      <a href="index.htm1" Back to first page <a/>
 </body>
 </html>
